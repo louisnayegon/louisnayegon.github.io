@@ -1,5 +1,9 @@
 ## Index
 
+- [Git](./git)
+  - [Clean Submodules](./git#clean-submodules)
+  - [Reset Submodules](./git#reset-submodules)
+  - [Update Submodules Recursively](./git#update-submodules-recursively)
 - [Jenkins](./jenkins)
   - [Stop The Service On A Mac](./jenkins#stop-the-service-on-a-mac)
   - [Uninstall On A Mac](./jenkins#uninstall-on-a-mac)
