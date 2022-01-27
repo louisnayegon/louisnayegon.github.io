@@ -14,7 +14,7 @@ git reset --hard
 git submodule foreach --recursive git reset --hard
 ```
 
-### Update Submodules Recusively
+### Update Submodules Recursively
 
 ```bash
 git submodule update --init --recursive
