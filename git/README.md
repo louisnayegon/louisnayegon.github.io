@@ -46,7 +46,7 @@ If the original repo is not shown then run the following command where url is th
 
 ```bash
 git remote add upstream <url>
-``
+```
 
 If you run the previous command you should now see the upstream repo listed
 
